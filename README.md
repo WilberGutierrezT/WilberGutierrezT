@@ -28,7 +28,8 @@ const Wilber = {
 }
 ```
 
-<img src="https://cdn-icons-png.flaticon.com/512/1535/1535004.png" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://cdn-icons-png.flaticon.com/512/1535/1535004.png" width="60"> <em> code and code never give up!</b> :)  
+<b>I love connecting with different people.</b></em>
 
 ---
 
