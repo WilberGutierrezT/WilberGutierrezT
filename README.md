@@ -6,7 +6,7 @@
 <p><em>Student of Economic at <a href="https://www.unsch.edu.pe/">San Cristóbal of Huamanga National University</a><img src="https://cdn-icons-png.flaticon.com/512/1344/1344761.png" width="30"></br> puesto de trabajo at <a href="link del sitio web"> Nombre de la empresa</a><img src="https://cdn-icons.flaticon.com/png/512/3150/premium/3150521.png?token=exp=1649007393~hmac=33d35db0d17242a80bb68f649d4ee806" width="30"> 
 </em></p>
 
-[![Twitter: @WilberGut_T](https://img.shields.io/twitter/follow/@WilberGut_T?style=social)](https://twitter.com/@WilberGut_T)
+[![Twitter: WilberGut_T](https://img.shields.io/twitter/follow/WilberGut_T?style=social)](https://twitter.com/WilberGut_T)
 [![Linkedin: Wilber](https://img.shields.io/badge/-Wilber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Wilber/)](https://www.linkedin.com/in/Wilber/)
 [![GitHub Wilber](https://img.shields.io/github/followers/WilberGutierrezT?label=follow&style=social)](https://github.com/WilberGutierrezT)
 
