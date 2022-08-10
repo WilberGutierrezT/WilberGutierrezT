@@ -17,7 +17,7 @@
 const Wilber = {
   pronouns: "he" | "him",
   code: [HTML, R],
-  tools: [R studio, Rmarkdown],
+  tools: [R studio, Rmarkdown, Quarto],
   architecture: [" "],
   techCommunities: {
                         coorganizer: " ",
