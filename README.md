@@ -7,7 +7,7 @@
 </em></p>
 
 [![Twitter: WilberGut_T](https://img.shields.io/twitter/follow/WilberGut_T?style=social)](https://twitter.com/WilberGut_T)
-[![Linkedin: Wilber](https://img.shields.io/badge/-Wilber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Wilber/)](https://www.linkedin.com/in/Wilber/)
+[![Linkedin: wilber-gutiérrez-taboada](https://img.shields.io/badge/-Wilber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilber-gutiérrez-taboada/)](https://www.linkedin.com/in/wilber-gutiérrez-taboada/)
 [![GitHub Wilber](https://img.shields.io/github/followers/WilberGutierrezT?label=follow&style=social)](https://github.com/WilberGutierrezT)
 
 
