@@ -16,15 +16,15 @@
 ```javascript
 const Wilber = {
   pronouns: "he" | "him",
-  code: [HTML, R],
-  tools: [R studio, Rmarkdown, Quarto],
+  code: [HTML, R, Python, CSS, LATEX],
+  tools: [R studio, Rmarkdown, Quarto, VS Code],
   architecture: [" "],
   techCommunities: {
                         coorganizer: " ",
                         speaker: " ",
                         mentor: " "
                       },
- challenge: "I am learning to code in R languaje"
+ challenge: "I am learning to code in R, Python, HTML, CSS, STATA languaje"
 }
 ```
 
